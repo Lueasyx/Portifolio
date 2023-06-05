@@ -10,7 +10,7 @@
 </style>
 
 <script lang="ts">
-import RouterVue from 'vue-router';
+import { RouterView } from 'vue-router';
 import { defineComponent } from 'vue';
 import HomeView from './views/HomeView.vue';
 
